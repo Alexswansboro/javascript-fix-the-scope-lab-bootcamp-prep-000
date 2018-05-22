@@ -4,11 +4,9 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal(animal) {
-  // How can we make sure that this function
-  // and the above function both pass?
+function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
-animal = 'cat'
+yourAnimal = 'cat'
 console.log(yourAnimal) 
 }
 yourAnimal
