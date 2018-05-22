@@ -4,12 +4,11 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal('animal') {
-  // P.S.: You can't just hard-code 'cat' below
-var yourAnimal = 'cat'
+function yourAnimal(cat) {
+    var animal = 'cat';
+    console.log($(animal));
 }
-yourAnimal
-console.log(yourAnimal);
+yourAnimal();
 
 function add2(n) {
   return (n + two)
