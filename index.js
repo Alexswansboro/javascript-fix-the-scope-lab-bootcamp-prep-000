@@ -6,11 +6,11 @@ function myAnimal() {
 
 function yourAnimal(animal) {
   // P.S.: You can't just hard-code 'cat' below
-var yourAnimal = 'cat';
-console.log(yourAnimal); 
+var yourAnimal = 'cat'
+console.log(yourAnimal)
 }
-yourAnimal;
-console.log(animal);
+yourAnimal
+console.log(yourAnimal);
 
 function add2(n) {
   return (n + two)
