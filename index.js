@@ -7,7 +7,6 @@ function myAnimal() {
 function yourAnimal(animal) {
   // P.S.: You can't just hard-code 'cat' below
 var yourAnimal = 'cat'
-console.log(yourAnimal)
 }
 yourAnimal
 console.log(yourAnimal);
