@@ -10,7 +10,6 @@ var yourAnimal = 'cat'
 console.log($(yourAnimal));
 }
 yourAnimal();
-console.log(yourAnimal);
 
 function add2(n) {
   return (n + two)
