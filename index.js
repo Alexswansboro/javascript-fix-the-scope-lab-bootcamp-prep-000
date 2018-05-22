@@ -9,7 +9,7 @@ function yourAnimal(animal) {
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
 animal = 'cat'
-return yourAnimal
+console.log(yourAnimal) 
 }
 yourAnimal
 console.log(animal);
