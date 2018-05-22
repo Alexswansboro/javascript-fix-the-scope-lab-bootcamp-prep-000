@@ -9,6 +9,7 @@ function yourAnimal(cat) {
     console.log($(animal));
 }
 yourAnimal();
+console.log();
 
 function add2(n) {
   return (n + two)
